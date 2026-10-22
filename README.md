@@ -1,10 +1,20 @@
 # Muhammad Safiullah
 
-I build software that shops, clinics, and marketplaces run every day. The work is usually a real counter: stock, payments, roles, and the screens staff actually touch.
+Freelance full-stack developer. I take a shop, a clinic, or a marketplace from the way the work actually happens to a system staff can run without me in the room.
 
-Co-founder at The Gadgets Lab and ProjifyLabs. Full-stack developer at SolutionsOnly. Based in Lahore.
+Based in Lahore. Available for fixed-scope builds and longer product work.
 
 [devsafi.me](https://devsafi.me) · [mr.safiullah789@gmail.com](mailto:mr.safiullah789@gmail.com)
+
+## Services
+
+**Web platforms** — Next.js and React products: accounts, dashboards, checkout, and an admin side that is clear enough for the owner to use.
+
+**Retail and clinic systems** — Inventory, sales, credit, receipts, roles, and the records a counter depends on. Desktop, web, or Android.
+
+**Marketplaces** — Listings, payment review, and delivery of the file or the order once payment is confirmed.
+
+An engagement starts with the workflow. Who uses it, what they record, and where stock or money can go wrong. The stack follows that.
 
 ## Selected work
 
@@ -17,7 +27,9 @@ Co-founder at The Gadgets Lab and ProjifyLabs. Full-stack developer at Solutions
 | AudiMed | Hearing-clinic app for assessments, appointments, and reports. Flutter. |
 | RunBuddyRun | 3D endless runner with four themed levels. Unity 6. |
 
-Client and production repositories stay private. [LifePharmacy](https://github.com/DevBySafi/LifePharmacy) is the public desktop build: customers, products, stock, and sales orders in C# and WinForms.
+Co-founder at The Gadgets Lab and ProjifyLabs. Also building client platforms at SolutionsOnly.
+
+Client repositories stay private. [LifePharmacy](https://github.com/DevBySafi/LifePharmacy) is the public desktop build: customers, products, stock, and sales orders in C# and WinForms.
 
 ## Stack
 
@@ -26,6 +38,8 @@ Systems — C#, .NET, WinForms, SQL Server, MySQL
 Mobile — Flutter  
 Cloud — Firebase, Supabase, Azure, Docker
 
-## Now
+## Start a project
 
-Shipping client platforms at SolutionsOnly, and products under The Gadgets Lab and ProjifyLabs.
+Write with the business, who will use the system, and what has to be true on day one. I reply with scope, a sensible first release, and a price.
+
+[mr.safiullah789@gmail.com](mailto:mr.safiullah789@gmail.com) · [devsafi.me](https://devsafi.me)
